@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Sourav Sharma
-###### Senior Software Developer
+###### Software Developer
 ###### React/React-Native/Node/Mongo
 
 - 📫 How to reach me:
