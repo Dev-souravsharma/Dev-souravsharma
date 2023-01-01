@@ -1,32 +1,30 @@
+Hi 👋 My name is Sourav Sharma
+==============================
 
-<!-- ## Hi there 👋
-**surajSanwal/surajSanwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer,Teacher.
+------------------
 
-Here are some ideas to get you started:
+As a full-stack developer with a passion for building intuitive and responsive mobile applications, I specialize in using React Native to create cross-platform solutions for iOS and Android. With over 2 years of experience in the industry, I have a strong background in software engineering and a track record of delivering high-quality products to clients. In addition to my work as a developer, I am also a skilled instructor and have experience teaching programming to students of all skill levels. I have a talent for breaking down complex concepts and making them accessible and easy to understand, and I am dedicated to helping others learn and grow in their careers. Whether I'm working on a new project or teaching a workshop, I am always driven by my love of technology and my desire to make a positive impact on the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 🌍  I'm based in Chandigarh , IN
+* ✉️  You can contact me at [dev.souravsharma@gmail.com](mailto:dev.souravsharma@gmail.com)
+* 🧠  I'm learning Frontend
+* 🤝  I'm open to collaborating on React native Projects
 
--->
+### Skills
 
-# Sourav Sharma
-###### Software Developer
-###### React/React-Native/Node/Mongo
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+</p>
 
-- 📫 How to reach me:
-<span align="center">
-<a href="mailto:dev.souravsharma@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"/></a>&nbsp;	
-<!--<a href="skype:live:sonusanwal65" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/skype--v2.png"/></a>&nbsp;	
-<a href="https://twitter.com/im_sanwal" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>&nbsp;
-<a href="https://facebook.com/swraporians" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-circled--v2.png"/></a>&nbsp;
-<a href="https://wa.me/919760843156?text=Hi%20Suraj,%20I%20want%20to%20connect%20with%20you%20on%20WhatsApp!" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v4.png"/></a>&nbsp;-->
-<!-- <a href="live:sonusanwal65" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/skype.png"/></a>&nbsp; -->
-</span>
+### Socials
 
-- 👀 Icons used by:
-<a href="https://icons8.com/icon">icons by Icons8</a>
+<p align="left"> <a href="https://www.linkedin.com/in/souravsharma3078/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@devsouravsharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@devcodechanne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
