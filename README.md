@@ -1,7 +1,7 @@
 Hi 👋 My name is Sourav Sharma
 ==============================
 
-Developer,Teacher.
+Developer and Teacher.
 ------------------
 
 As a full-stack developer with a passion for building intuitive and responsive mobile applications, I specialize in using React Native to create cross-platform solutions for iOS and Android. With over 2 years of experience in the industry, I have a strong background in software engineering and a track record of delivering high-quality products to clients. In addition to my work as a developer, I am also a skilled instructor and have experience teaching programming to students of all skill levels. I have a talent for breaking down complex concepts and making them accessible and easy to understand, and I am dedicated to helping others learn and grow in their careers. Whether I'm working on a new project or teaching a workshop, I am always driven by my love of technology and my desire to make a positive impact on the world.
